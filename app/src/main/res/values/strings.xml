@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sieci_211121</string>
+    <string name="button">On</string>
+    <string name="off">Off</string>
+    <string name="connect">Connect</string>
+    <string name="textview">TextView</string>
+</resources>
